@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Egor!</h1>
+<h1 align="center">Hi 👋, I'm Malythist!</h1>
 
 ###
 
