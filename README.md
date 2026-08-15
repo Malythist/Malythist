@@ -1,41 +1,34 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&theme=cobalt&text=Malythist&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Senior%20Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose%20%7C%20Flutter&descSize=18&descAlign=50&descAlignY=58" alt="Malythist profile header" />
-</div>
-
 <p align="center">
-  <a href="https://www.youtube.com/@georgegrotsky5514" target="_blank">
+  <a href="https://www.youtube.com/@malythist" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/georgegrotsky/" target="_blank">
+  <a href="https://www.instagram.com/malithyst/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="Instagram" />
   </a>
   <a href="https://t.me/malithyst" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="28" alt="Telegram" />
   </a>
-  <a href="https://discordapp.com/users/542389863874560030" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28" alt="Discord" />
-  </a>
 </p>
 
 # Hi, I'm Malythist
 
-I'm a Senior Android Developer focused on building reliable, polished mobile applications with Kotlin, Java, Jetpack Compose, Gradle, and Firebase.
+I'm a Senior Android Developer focused on building reliable, polished mobile applications with Kotlin, Swift, Java, Jetpack Compose, Gradle, and Firebase.
 
-Beyond native Android, I explore cross-platform development with Flutter and Dart, create Minecraft mods, and experiment with game development in Unreal Engine.
+Beyond native mobile development, I explore Kotlin Multiplatform, Flutter, and Dart, create Minecraft mods, and experiment with game development in Unreal Engine.
 
 ## About Me
 
 - I specialize in Android application development and mobile product engineering.
 - I care about clean architecture, smooth user experience, and maintainable code.
-- I am currently improving my Flutter and Dart workflow.
+- I am currently improving my Kotlin Multiplatform, Flutter, and Dart workflow.
 - Outside of development, I enjoy sound recording, fishing, and traveling.
 
 ## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| Mobile | Android, Kotlin, Java, Jetpack Compose, Gradle, Firebase |
-| Cross-platform | Flutter, Dart |
+| Mobile | Android, iOS, Kotlin, Swift, Java, Jetpack Compose, Gradle, Firebase |
+| Cross-platform | Kotlin Multiplatform, Flutter, Dart |
 | Backend | PHP, Laravel, MySQL |
 | Game development | Unreal Engine, Minecraft modding |
 | Tools | Git, Docker, Android Studio, IntelliJ IDEA, VS Code, Xcode |
@@ -49,6 +42,8 @@ Beyond native Android, I explore cross-platform development with Flutter and Dar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" alt="Swift" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="42" alt="Jetpack Compose" />
   <img width="10" />
@@ -75,18 +70,16 @@ Beyond native Android, I explore cross-platform development with Flutter and Dar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="42" alt="Unreal Engine" />
 </p>
 
-## GitHub Activity
+## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Malythist&show_icons=true&theme=cobalt&hide_border=true&rank_icon=github" alt="Malythist GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malythist&layout=compact&theme=cobalt&hide_border=true" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malythist&theme=cobalt" alt="Repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malythist&theme=cobalt" alt="Commits by language" />
 </p>
 
-## What I Like Building
-
-- Android apps with thoughtful architecture and clean UI.
-- Cross-platform prototypes that can quickly become real products.
-- Tools, mods, and game experiments where code meets creativity.
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malythist&theme=cobalt" alt="GitHub profile details" />
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Malythist.Malythist&left_text=Profile%20views" alt="Profile views" />
