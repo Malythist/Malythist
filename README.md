@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&theme=cobalt" alt="Profile header wave" />
+</div>
+
 <p align="center">
   <a href="https://www.youtube.com/@malythist" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" alt="YouTube" />
@@ -68,17 +72,6 @@ Beyond native mobile development, I explore Kotlin Multiplatform, Flutter, and D
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="42" alt="Unreal Engine" />
-</p>
-
-## GitHub Snapshot
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malythist&theme=cobalt" alt="Repositories by language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malythist&theme=cobalt" alt="Commits by language" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malythist&theme=cobalt" alt="GitHub profile details" />
 </p>
 
 <p align="center">
